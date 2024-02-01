@@ -1,5 +1,5 @@
 
-# Image Search System Based on Feature Descriptors
+# Content Based Image Retrieval System Based on Feature Descriptors
 
 ## Project Overview
 
